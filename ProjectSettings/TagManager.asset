@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Node
+  - DestroyBar
+  - Block
+  - Game music
+  - IntBlock
+  - FloatBlock
+  - FormulaBlock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Img
+  - Water
+  - UI
+  - Block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: IMG
+    uniqueID: 2783047197
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Game
+    uniqueID: 2833754891
+    locked: 0

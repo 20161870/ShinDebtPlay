@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|c:\\users\\stefano\\downloads\\debtplay v1\\debtplay\\assets\\hijomayor\\scripts\\bloccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\hijomayor\\scripts\\bloccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\hijomayor\\scripts\\descendblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\hijomayor\\scripts\\descendblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\hijomayor\\scripts\\floatblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\hijomayor\\scripts\\floatblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\hijomayor\\scripts\\calulatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\hijomayor\\scripts\\calulatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\hijomayor\\scripts\\playerhminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\hijomayor\\scripts\\playerhminfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\hijomayor\\scripts\\intblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\hijomayor\\scripts\\intblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\madre\\scripts\\displaycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\madre\\scripts\\displaycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\hijomayor\\scripts\\formulablock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\hijomayor\\scripts\\formulablock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\gameconfirmation\\gameconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\gameconfirmation\\gameconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\moneymanagement\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\moneymanagement\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\madre\\scripts\\wincondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\madre\\scripts\\wincondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\madre\\scripts\\carddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\madre\\scripts\\carddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\madre\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\madre\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\assets\\moneymanagement\\coincount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9510EFB8-FC60-F083-7AB9-7071CEA8375C}|Assembly-CSharp.csproj|solutionrelative:assets\\moneymanagement\\coincount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 290,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerHMInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\PlayerHMInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\HijoMayor\\Scripts\\PlayerHMInfo.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\PlayerHMInfo.cs",
+              "RelativeToolTip": "Assets\\HijoMayor\\Scripts\\PlayerHMInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:52:08.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FloatBlock.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\FloatBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\HijoMayor\\Scripts\\FloatBlock.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\FloatBlock.cs",
+              "RelativeToolTip": "Assets\\HijoMayor\\Scripts\\FloatBlock.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:42:55.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IntBlock.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\IntBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\HijoMayor\\Scripts\\IntBlock.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\IntBlock.cs",
+              "RelativeToolTip": "Assets\\HijoMayor\\Scripts\\IntBlock.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:42:50.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormulaBlock.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\FormulaBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\HijoMayor\\Scripts\\FormulaBlock.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\FormulaBlock.cs",
+              "RelativeToolTip": "Assets\\HijoMayor\\Scripts\\FormulaBlock.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:46:12.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalulatorController.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\CalulatorController.cs",
+              "RelativeDocumentMoniker": "Assets\\HijoMayor\\Scripts\\CalulatorController.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\CalulatorController.cs",
+              "RelativeToolTip": "Assets\\HijoMayor\\Scripts\\CalulatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:45:32.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DescendBlock.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\DescendBlock.cs",
+              "RelativeDocumentMoniker": "Assets\\HijoMayor\\Scripts\\DescendBlock.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\DescendBlock.cs",
+              "RelativeToolTip": "Assets\\HijoMayor\\Scripts\\DescendBlock.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwD8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:23:17.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlocController.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\BlocController.cs",
+              "RelativeDocumentMoniker": "Assets\\HijoMayor\\Scripts\\BlocController.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\HijoMayor\\Scripts\\BlocController.cs",
+              "RelativeToolTip": "Assets\\HijoMayor\\Scripts\\BlocController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwGYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:21:51.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "COINCOUNT.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\MoneyManagement\\COINCOUNT.cs",
+              "RelativeDocumentMoniker": "Assets\\MoneyManagement\\COINCOUNT.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\MoneyManagement\\COINCOUNT.cs",
+              "RelativeToolTip": "Assets\\MoneyManagement\\COINCOUNT.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAqwH0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:48:01.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\MoneyManagement\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MoneyManagement\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\MoneyManagement\\GameManager.cs",
+              "RelativeToolTip": "Assets\\MoneyManagement\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:40:27.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WinCondition.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\Madre\\Scripts\\WinCondition.cs",
+              "RelativeDocumentMoniker": "Assets\\Madre\\Scripts\\WinCondition.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\Madre\\Scripts\\WinCondition.cs",
+              "RelativeToolTip": "Assets\\Madre\\Scripts\\WinCondition.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:51:22.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisplayCard.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\Madre\\Scripts\\DisplayCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Madre\\Scripts\\DisplayCard.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\Madre\\Scripts\\DisplayCard.cs",
+              "RelativeToolTip": "Assets\\Madre\\Scripts\\DisplayCard.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwGoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:51:22.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CardDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\Madre\\Scripts\\CardDatabase.cs",
+              "RelativeDocumentMoniker": "Assets\\Madre\\Scripts\\CardDatabase.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\Madre\\Scripts\\CardDatabase.cs",
+              "RelativeToolTip": "Assets\\Madre\\Scripts\\CardDatabase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:51:22.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\Madre\\Scripts\\Card.cs",
+              "RelativeDocumentMoniker": "Assets\\Madre\\Scripts\\Card.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\Madre\\Scripts\\Card.cs",
+              "RelativeToolTip": "Assets\\Madre\\Scripts\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:51:22.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameConfirmation.cs",
+              "DocumentMoniker": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\GameConfirmation\\GameConfirmation.cs",
+              "RelativeDocumentMoniker": "Assets\\GameConfirmation\\GameConfirmation.cs",
+              "ToolTip": "C:\\Users\\Stefano\\Downloads\\DebtPlay v1\\DebtPlay\\Assets\\GameConfirmation\\GameConfirmation.cs",
+              "RelativeToolTip": "Assets\\GameConfirmation\\GameConfirmation.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv0MAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:50:08.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
